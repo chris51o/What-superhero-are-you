@@ -1,0 +1,58 @@
+body {
+    font-family: gergia, serif;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px black;
+    font-size: 20px;
+    background-image: linear-gradient(red, black, blue);
+}
+
+.title {
+    font-family: georgia, Curive;
+    color: white;
+    text-shadow: 2px 2px black;
+
+
+}
+
+img {
+    width: 400px;
+    border: 2px white outset;
+}
+
+.firstImage {
+    border: 5px black inset;
+}
+
+.Enter-one {}
+
+.result {
+    border: groove grey 2px;
+    height: 200px;
+    margin: 10px;
+    padding: 5px;
+}
+
+.Criticize {
+    display: none;
+}
+
+.Hater-land {
+    display: none;
+}
+
+
+.Happy-rate {
+    display: none;
+}
+
+
+.main-page {
+    display: block;
+}
+
+.cool-nice {
+    width: 170px;
+    height: 170px;
+    border: 5px blue outset;
+}
